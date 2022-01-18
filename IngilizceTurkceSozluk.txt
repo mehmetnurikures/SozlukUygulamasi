@@ -1,0 +1,11 @@
+Entorage,Cevre,Bolge
+Peer,Akran,Yasit
+Riddle,Bilmece
+Perpetual,Surekli,Devamlı
+Ambitious,Hirsli,İstekli
+Decimate,Yok Etmek
+Denoounce,Aleyhinde Olmak,Kinamak
+Inclusion,Dahilinde,İcinde
+Boost,Artirmak,Kaldirmak,Yukseltmek
+Declined,Azalmak,Cevirmek,Curumek
+Sway,Sallanmak,Dalgalanmak
